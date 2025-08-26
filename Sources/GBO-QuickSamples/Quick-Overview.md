@@ -174,3 +174,8 @@ A **Set** (`Set<T>`) is a table that support `Add`, `Remove`, `Contains`.
 A **Map** (`Map<TKey, TValue>`) collection is a Key-Value collection that support `Set`, `KeyExist`, `Find`, `FindNextNeighbor`, `FindPreviousNeighbor`.
 
 
+```mermaid
+flowchart LR
+Start --> Stop
+```
+
