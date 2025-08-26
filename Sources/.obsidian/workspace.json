@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GBO-QuickSamples/Quick-Overview.md",
+                "file": "Abstract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick-Overview"
+              "title": "Abstract"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GBO-QuickSamples/Quick-Overview.md",
+                "file": "Abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quick-Overview"
+              "title": "Backlinks for Abstract"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GBO-QuickSamples/Quick-Overview.md",
+                "file": "Abstract.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quick-Overview"
+              "title": "Outgoing links from Abstract"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GBO-QuickSamples/Quick-Overview.md",
+                "file": "Abstract.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quick-Overview"
+              "title": "Outline of Abstract"
             }
           }
         ]
@@ -168,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92713ff036553f76",
+  "active": "b075084238d3c0c0",
   "lastOpenFiles": [
+    "GBO-QuickSamples/Quick-Overview.md",
+    "Abstract.md",
     "GBO-QuickSamples"
   ]
 }
