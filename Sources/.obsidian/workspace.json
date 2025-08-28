@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GBO-QuickSamples/Quick-Overview.md",
+                "file": "LibMDBX-Enhancements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick-Overview"
+              "title": "LibMDBX-Enhancements"
             }
           }
         ]
@@ -179,9 +179,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "365f105be1cdf081",
+  "active": "b075084238d3c0c0",
   "lastOpenFiles": [
     "Abstract.md",
+    "LibMDBX-Enhancements.md",
     "GBO-QuickSamples/Quick-Overview.md",
     "GBO-QuickSamples"
   ]
